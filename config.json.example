@@ -1,9 +1,9 @@
 {
-    "botName": "LoL Human",
+    "botName": "XdimsBOT",
     "timezone": "Asia/Jakarta",
     "limit": 100,
-    "ownerName": "LoL Human",
-    "ownerNumber": ["62895418200111"],
+    "ownerName": "XdimsDev",
+    "ownerNumber": ["6281299609670"],
     "sessionName": "lolhuman",
     "apikey": ""
 }
